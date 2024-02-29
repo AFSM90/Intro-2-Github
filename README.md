@@ -1,2 +1,2 @@
 # Intro-2-Github
-O meu primeiro repositório
+O meu primeiro repositório de AM.
